@@ -70,7 +70,6 @@ const Profile = () => {
     }));
   };
 
-  // FONTS
   const [fontsLoaded] = useFonts({
     "Karla-Regular": require("../assets/fonts/Karla-Regular.ttf"),
     "Karla-Medium": require("../assets/fonts/Karla-Medium.ttf"),
